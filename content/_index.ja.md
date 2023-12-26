@@ -31,8 +31,8 @@ sections:
       title: 研究概要
       subtitle:
       text: |
-        {{< figure src="overview.png" caption="FormarieOS Project" width="100%" numbered="true" >}}
-        Society 5. 0をサポートするために、システム全体に強固なセキュリティを提供する包括的なセキュリティ基盤としてのオペレーティングシステムを実現する。
+        {{< figure src="overview.png" caption="FrieOS Project" width="100%" numbered="true" >}}
+        Society 5.0をサポートするために、システム全体に強固なセキュリティを提供する包括的なセキュリティ基盤としてのオペレーティングシステムを実現する。
 
         最先端のハードウェア技術やシステムソフトウェア技術によって実現される隔離実行環境を、セキュリティにフォーカスした形式手法によって効率的に強化することで、理論的に検証されたセキュリティの実用システムへの適用を容易にする。
 

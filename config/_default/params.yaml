@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022-2027 FormarieOS Project'
+    notice: '© 2022-2027 FrieOS Project'
     license:
       enable: false
       allow_derivatives: false

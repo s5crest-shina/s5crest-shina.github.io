@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: FormarieOS
-baseURL: 'https://s5crest.os.ecc.u-tokyo.ac.jp' # Website URL
+title: FrieOS Project
+baseURL: 'https://frieos.pages.dev' # Website URL
 
 ############################
 ## LANGUAGE

@@ -31,7 +31,7 @@ sections:
       title: Research Overview
       subtitle:
       text: |
-        {{< figure src="overview.en.png" caption="FormarieOS Project" width="100%" numbered="true" >}}
+        {{< figure src="overview.en.png" caption="FrieOS Project" width="100%" numbered="true" >}}
         In order to support Society 5.0, we realize an operating system that serves as a comprehensive security infrastructure to provide strong security throughout the system.
 
         We facilitate the application of theoretically verified security to practical systems by efficiently reinforcing isolation execution environments enabled by state-of-the-art hardware and system software technologies with the support of security-focused formal methods.
