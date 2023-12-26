@@ -2,7 +2,7 @@
 title: 'Toward Cloud-based FIDO Authentication with Secure Credentials Recovery'
 authors:
   - Momoko Shiraishi
-  - Takahiro Shinagawa.
+  - Takahiro Shinagawa
 date: '2023-12-08T00:00:00Z'
 publication_types: ['poster']
 publication: 39th Annual Computer Security Applications Conference (ACSAC 2023)
@@ -34,10 +34,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

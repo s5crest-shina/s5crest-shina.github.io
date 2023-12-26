@@ -11,7 +11,7 @@ main:
     url: /#people
     weight: 30
   - name: 論文
-    url: /#publication
+    url: /publication
     weight: 50
   - name: ブログ
     url: /post

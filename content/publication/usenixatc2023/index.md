@@ -23,7 +23,7 @@ summary: ''
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -41,10 +41,10 @@ url_video: 'https://youtu.be/e1DrrIKU0Ko'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -52,7 +52,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - FastTEE
+  - FrieOS
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

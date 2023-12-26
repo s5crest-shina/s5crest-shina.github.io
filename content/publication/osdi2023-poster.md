@@ -1,11 +1,12 @@
 ---
-title: 'Toward Facilitating Root Cause Localization in Fuzzing'
+title: 'Toward Efficient Fuzzing of Nested Virtualization'
 authors:
-  - Katsunori Aoki
-  - Takahiro Shinagawa.
-date: '2023-08-10T00:00:00Z'
+  - Reima Ishii
+  - Takaaki Fukai
+  - Takahiro Shinagawa
+date: '2023-07-10T00:00:00Z'
 publication_types: ['poster']
-publication: 32nd USENIX Security Symposium (Poster)
+publication: 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2023) (Poster)
 doi: ''
 
 abstract: ''
@@ -23,10 +24,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.os.ecc.u-tokyo.ac.jp/papers/2023-usenixsec-aoki-abstract.pdf'
+url_pdf: 'https://www.os.ecc.u-tokyo.ac.jp/papers/2023-osdi-ishii-abstract.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://www.os.ecc.u-tokyo.ac.jp/posters/2023-usenixsec-aoki.pdf'
+url_poster: 'https://www.os.ecc.u-tokyo.ac.jp/posters/2023-osdi-ishii.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -34,10 +35,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -45,7 +46,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - FastTEE
+  - FrieOS
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
