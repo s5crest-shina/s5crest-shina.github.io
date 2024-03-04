@@ -13,6 +13,6 @@ main:
   - name: 論文
     url: /publication
     weight: 50
-  - name: ブログ
+  - name: 研究開発ブログ
     url: /post
     weight: 70

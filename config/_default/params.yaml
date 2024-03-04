@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: M
+  font_size: S
 
 # SEO
 
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022-2027 FrieOS Project'
+    notice: '© 2022-2027 FRIE Project'
     license:
       enable: false
       allow_derivatives: false

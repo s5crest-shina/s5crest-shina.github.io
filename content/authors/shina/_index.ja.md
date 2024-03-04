@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 品川 高廣
+title: 品川 高廣（研究代表者）
 
 # Full name (for SEO)
 first_name: Takahiro
